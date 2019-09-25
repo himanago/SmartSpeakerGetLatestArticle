@@ -2,7 +2,6 @@
 using Microsoft.Azure.Functions.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 using System;
-using System.Net;
 using TechSummit2018.ServerlessSmartSpeaker.Services;
 using XPlat.VUI;
 
